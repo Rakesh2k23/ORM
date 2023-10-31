@@ -45,7 +45,8 @@ class Playeradmin(admin.ModelAdmin):
 ```
 ## OUTPUT
 
-![image](https://github.com/Rakesh2k23/ORM/assets/141472158/b5aa689f-9d37-4ac1-95d8-f6ec38fe3c16)
+![image](https://github.com/Rakesh2k23/ORM/assets/141472158/14228fa1-1ce0-4b0c-80fb-d9723a4c2e8d)
+
 
 
 
